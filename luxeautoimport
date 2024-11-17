@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Авто импорт из Америки в Грузию">
+    <title>Авто Импорт из Америки в Грузию</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+        header {
+            background-color: #d32f2f;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+        }
+        .about, .contacts {
+            margin: 20px auto;
+            max-width: 800px;
+            border: 1px solid #d32f2f;
+            border-radius: 5px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .contacts ul {
+            list-style: none;
+            padding: 0;
+        }
+        .contacts ul li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Авто Импорт из Америки в Грузию</h1>
+        <p>Привозим автомобили быстро, качественно и выгодно!</p>
+    </header>
+    <nav>
+        <a href="#about">Обо мне</a>
+        <a href="#contacts">Контакты</a>
+    </nav>
+    <section id="about" class="about">
+        <h2>Обо мне</h2>
+        <p>Здравствуйте! Меня зовут [Ваше Имя], и я занимаюсь импортом автомобилей из Америки в Грузию.  
+        Мой опыт позволяет подбирать лучшие варианты по цене и качеству, помогая моим клиентам получить надежные и проверенные автомобили.</p>
+        <p>Я контролирую процесс от начала до конца: от подбора автомобиля на аукционах до доставки и оформления всех необходимых документов.</p>
+    </section>
+    <section id="contacts" class="contacts">
+        <h2>Контакты</h2>
+        <ul>
+            <li><strong>Телефон:</strong> +995 [Ваш номер]</li>
+            <li><strong>Email:</strong> [Ваш email]</li>
+            <li><strong>Адрес:</strong> Тбилиси, Грузия</li>
+        </ul>
+        <p>Напишите или позвоните мне, чтобы обсудить детали и начать процесс выбора вашего идеального автомобиля!</p>
+    </section>
+    <footer>
+        &copy; 2024 Авто Импорт. Все права защищены.
+    </footer>
+</body>
+</html>
